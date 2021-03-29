@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsPowerPointIntegration.Vsto", "ObsPowerPointIntegration.Vsto\ObsPowerPointIntegration.Vsto.csproj", "{9314C29E-9E41-40C2-B46F-A6FBB0F20450}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ObsPowerPointIntegration.Setup", "ObsPowerPointIntegration.Setup\ObsPowerPointIntegration.Setup.vdproj", "{579101D6-7E6D-4E02-8908-90E58FF5C3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9314C29E-9E41-40C2-B46F-A6FBB0F20450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9314C29E-9E41-40C2-B46F-A6FBB0F20450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9314C29E-9E41-40C2-B46F-A6FBB0F20450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9314C29E-9E41-40C2-B46F-A6FBB0F20450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579101D6-7E6D-4E02-8908-90E58FF5C3EA}.Debug|Any CPU.ActiveCfg = Debug
+		{579101D6-7E6D-4E02-8908-90E58FF5C3EA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C65006B-4333-497A-91BA-A0EBB0FF4277}
+	EndGlobalSection
+EndGlobal
